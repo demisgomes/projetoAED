@@ -1,0 +1,13 @@
+Relatório da votação.
+Eleitores: 
+1
+3
+5
+Eleitores que votaram: 
+2
+4
+6
+Candidatos e votosCandidato: Porrra  Votos: 3
+
+Resultado
+Empate!
